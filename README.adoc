@@ -7,11 +7,14 @@ Practice Makes Perfect  :) +
 
 == Development Quickstart Guide
 * For frontend +
+
+NOTE: Check installation guide here: +
+https://material-ui.com/getting-started/installation/
+
 [source,linux]
 cd src/main/frontend
 npm install
 npm start
-
 
 == Runtime Environment and Deployment
 

@@ -1,0 +1,18 @@
+= React Mobx Practice
+:toc:
+
+== Summary
+Practice Makes Perfect  :) +
+
+
+== Development Quickstart Guide
+* For frontend +
+[source,linux]
+cd src/main/frontend
+npm install
+npm start
+
+
+== Runtime Environment and Deployment
+
+* Jenkins pipeline. +

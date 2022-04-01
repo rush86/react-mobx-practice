@@ -2,7 +2,7 @@
 :toc:
 
 == Summary
-Practice Makes Perfect  :) +
+
 
 
 == Development Quickstart Guide
